@@ -1,4 +1,4 @@
-// Problem-04: Same Same But Different  😕 
+// Problem-04: Same Same But Different 
 
 function  isSame(arr1 , arr2 ) {
     // You have to write your code here
